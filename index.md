@@ -2,13 +2,15 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Hello! I'm Carrie and welcome to my little piece of the web!
 
-[Link to another page](./another-page.html).
+It's a compilation of my thoughts on data science related (and not so related) topics by day, and a personal blog of my journey as a data scientist by night.
 
-There should be whitespace between paragraphs.
+I am currently a student in the Master of Data Science program at the University of British Columbia and ~~will make it out alive~~ graduate in summer 2019.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Shameless Self-Plug-Type Stuff:
+[My LinkedIn](https://ca.linkedin.com/in/ccheung2)
+[My GitHub](https://github.com/carrieklc)
 
 # Header 1
 
