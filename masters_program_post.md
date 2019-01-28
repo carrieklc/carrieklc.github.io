@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: post
 title: Master's in Data Science — Online or In-Person?
 date: 2019-01-28T06:35:41+0000
 permalink: /masters-program/
 ---
-
+[home]({{ https://carrieklc.github.io }}/)
 {{ page.date | date_to_long_string }}
 # Master's in Data Science — Online or In-Person?
 ---
@@ -49,4 +49,4 @@ One obvious caveat is that we all have different needs and life situations, so t
 
 **No matter which format you choose, commit yourself to the opportunity and don’t forget to enjoy the ride. Good luck!**
 
-[back]({{ https://carrieklc.github.io }}/)
+[home]({{ https://carrieklc.github.io }}/)
