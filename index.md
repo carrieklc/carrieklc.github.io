@@ -13,7 +13,7 @@ Shameless Self-Plug-Type Stuff:
 [My GitHub](https://github.com/carrieklc)
 
 <ul>
-  {% for post in site.post %}
+  {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">
         {{ post.title }}
