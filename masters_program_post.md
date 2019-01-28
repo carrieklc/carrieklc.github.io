@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Master's in Data Science — Online or In-Person?
-date: 2019-01-28T06:35:41+0000
+date: 2019-01-27T06:35:41+0000
 permalink: /masters-program/
 ---
 [home]({{ https://carrieklc.github.io }}/)
+
 {{ page.date | date_to_long_string }}
 # Master's in Data Science — Online or In-Person?
 ---
