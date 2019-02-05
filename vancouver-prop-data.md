@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Property Values and Incomes Across Vancouver
-date: 2019-02-06T06:35:41+0000
+date: 2019-02-05T06:35:41+0000
 permalink: /vancouver-prop-value/
 tags: post
 ---
