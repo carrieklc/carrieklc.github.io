@@ -3,7 +3,7 @@ layout: default
 ---
 
 <ul>
-  {% for post in site.pages%}
+  {% for post in site.pages reversed%}
     {% if post.tags == "post" %}
       <a href="{{ post.url }}">
         <H1>{{ post.title }}</H1>
