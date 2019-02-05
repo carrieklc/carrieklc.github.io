@@ -1,13 +1,9 @@
 ---
-layout: default
+layout: post
 title: Master's in Data Science — Online or In-Person
 date: 2019-01-27T06:35:41+0000
 permalink: /masters-program-formats/
----
-[home](https://carrieklc.github.io)
-
-{{ page.date | date_to_long_string }}
-# Master's in Data Science — Online or In-Person?
+tags: post
 ---
 
 With the recent surge in interest surrounding data science, you might have noticed more and more master’s degree programs focused specifically on this field being offered. Since the nature of data science is very much digital and we live in an age where remote alternatives are increasingly common, there are also many options to complete such a program online. So, if you’ve decided to pursue a master’s or advanced degree in this field, a likely question you might grapple with is: Which format should you opt for &mdash; **online or in-person**?
@@ -49,5 +45,3 @@ There is, however, something especially appealing about sitting down with a grou
 One obvious caveat is that we all have different needs and life situations, so this is by no means an exhaustive list of things you'd want to consider. I know when I'm in the middle of trying to make a big decision, I find it useful to soak up as much information, content and perspectives as I can. So hopefully, this might be helpful to some of you going through a similar dilemma.
 
 **No matter which format you choose, commit yourself to the opportunity and don’t forget to enjoy the ride. Good luck!**
-
-[home](https://carrieklc.github.io)
