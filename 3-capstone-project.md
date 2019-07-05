@@ -21,7 +21,7 @@ Unfortunately, Identifying the rock type is no trivial task as it typically requ
 
 So then the big question was... *Can we leverage drill telemetry data to create a machine learning model that predicts rock type accurately and earlier in the process in order to better inform blasting decisions?*
 
-Over the past two months, my capstone project team and I sent out to answer exactly that question.
+Over the past two months, my capstone project team and I set out to answer exactly that question.
 
 ## The Process
 
@@ -32,7 +32,7 @@ At a high level, there was a general 5-step method to our madness in tackling th
 ##### 1) Exploratory Data Analysis (EDA)
 If you've ever played a card game, you know that after the cards are dealt, you take time to not only look at what you have in hand, but to try to understand the cards you've been dealt.
 
-The same applies when faced with a new problem that involves data &mdash; it pays to first understand the data you have. So we dedicated time to explore the data samples given to us by looking at summary statistics, visualizing the data, and asking the domain experts questions where things were unclear to us.
+The same applies when faced with a new problem involving data &mdash; it pays to first understand the data you have. So we dedicated time to explore the data samples given to us by looking at summary statistics, visualizing the data, and asking the domain experts questions where things were unclear to us.
 
 As we did this, we also developed a better understanding of the business problem and context...and we noticed a data imbalance issue. More on this in #3.
 
@@ -62,13 +62,13 @@ With the first approach, we calculated a set of numeric values which summarized 
 We also wanted to take advantage of domain expertise in house at Quebec Iron Ore to help us identify characteristics that would differentiate rock classes. Based on feedback elicited from an experienced drill operator, we created several features using this approach.
 
 ##### 5) Modelling
-At this point, we were ready to try fitting different models. Hyperparameter selection was done using randomized cross-validation. Model performance was assessed on the cross-validated values of accuracy, macro F1 score and a custom cost function requested by the partner.
+At this point, we were ready to try fitting different models. Hyperparameter selection was done using randomized cross-validation. Model performance was assessed on the cross-validated values of accuracy, macro F1 score, and a custom cost function requested by the partner.
 
 The top 5 models were selected and their performance assessed on the test data set. One final model was selected based on test performance results.
 
 ## The Solution
 
-The main deliverable of our project was a final model that predicts the most likely rock class for a given drilled hole trained on the industry partner's data. Anticipating the future need to update the model, we also provided a Python package which easily executes a reproducible process to re-train the model using new input data.
+The main deliverable of our project was a final model that predicts the most likely rock class for a given drilled hole trained on the industry partner's data. Anticipating the future need to update the model, we also provided a Python package which allows for easy execution of a reproducible process to re-train the model using new input data.
 
 To visualize the predictions from the model, we created a web application using [Plotly](https://plot.ly/python/) and [Dash](https://dash.plot.ly/).
 
@@ -77,10 +77,12 @@ If you want to learn more about our project, the code for the pipeline we develo
 [https://github.com/mfqqio/rock_predictor](https://github.com/mfqqio/rock_predictor)
 
 ## Learnings
-Over the course of this project, I've learned more than I can outline, but one key learning I've taken away from the experience is:
+Over the course of this project, I've learned more than I can outline but one key learning I've taken away from the experience is:
 
 >Unlike the monster under your bed that may or may not exist, data imbalance is a real thing and needs to be handled properly.
 >
 >Before selecting your technique of choice to tackle that beast (e.g. oversampling, undersampling), it's important to also drill into (pun intended) why the data is imbalanced in the first place. Is the imbalance representative of reality, or is there a systematic bias that could be corrected? Will more data be collected for the minority class in the future?
 >
 >If you can, talk to domain experts or your client about it and explain to them the consequence of this issue on the performance of the model. It is possible that even with your best efforts to mitigate the data imbalance, that the model performance on the minority class could still be less than ideal. Having conversations like this helps to manage expectations and make better modelling decisions.
+
+Overall, I had an amazing experience working with my capstone team and Quebec Iron Ore over the past two months. This project gave me an opportunity to work in an industry I've never worked in and opened my eyes to the wide applicability of data science.
