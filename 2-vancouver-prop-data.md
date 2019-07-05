@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Property Values and Incomes Across Vancouver
-date: 2019-02-05T06:35:41+0000
+date: 2019-02-05 06:35:41 +0000
 permalink: /vancouver-prop-value/
 tags: post
 ---
@@ -20,4 +20,4 @@ The data driving the app are from the City of Vancouver's [Open Data Catalogue](
 
 More details about the app and how we approached the problem can be found in the project's [GitHub repository](https://github.com/UBC-MDS/Vancouver-Property-Value-Analysis).
 
-The app was built using the R package, [Shiny](https://shiny.rstudio.com/). It was my first experience using Shiny and I found it a great learning experience. Although I can see some aspects being limiting if you want tighter control and more flexibility as to exactly how your web app will look, I can see myself using Shiny more in the future to quickly spin up data-driven web apps.
+The app was built using the R package, [Shiny](https://shiny.rstudio.com/). It was my first time using Shiny and I found it a great learning experience. Although I can see some aspects being limiting if you want tighter control and more flexibility as to exactly how your web app will look, I can see myself using Shiny more in the future to quickly spin up data-driven web apps.

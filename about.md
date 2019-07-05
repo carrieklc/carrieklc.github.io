@@ -7,6 +7,3 @@ permalink: /about-me/
 [home](https://carrieklc.github.io)
 
 # About Me
----
-
-test

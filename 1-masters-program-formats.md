@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Master's in Data Science — Online or In-Person
-date: 2019-01-27T06:35:41+0000
+date: 2019-01-27 06:35:41 +0000
 permalink: /masters-program-formats/
 tags: post
 ---
@@ -35,11 +35,11 @@ I had some past experience taking online courses back in my undergrad days and a
 From these experiences, I knew learning style was something that would be difficult for me to compromise on, without some major mindset shifts. So try to reflect on the kind of learning style or environment where you’ve felt most comfortable and motivated.
 
 ## Support
-Regardless of your preferred learning style, no can’t argue that having a good support network makes it much easier to get through tough times, whether that be during a week of exams or hitting deadlines for a group project. Personally, I didn’t truly appreciate how valuable the support of my fellow classmates would be at the beginning of my program. Fast-forward six months, and I’ve now experienced time and time again how the support of my peers can work wonders to help pull me through times when deadlines and stress start to mount.
+Regardless of your preferred learning style, you can't deny that having a good support network makes it much easier to get through tough times, whether that be during a week of exams or hitting deadlines for a group project. Personally, I didn’t truly appreciate how valuable the support of my fellow classmates would be at the beginning of my program. Fast-forward six months, and I’ve now experienced time and time again how the support of my peers can work wonders to help pull me through times when deadlines and stress start to mount.
 
 This isn’t to say that only an in-person format can provide that &mdash; I think online platforms like YouTube and Twitter have already proven that this certainly isn’t the case. With remote discussion channels and online learning tools, many online programs can be effective in creating a sense of community as well. Even my in-person program supplements discussions outside of lectures with Slack, where much of the answers to our questions on class material are crowdsourced, provided by instructors, support staff and fellow students alike.
 
-There is, however, something especially appealing about sitting down with a group of classmates face-to-face and talking through a particularly difficult assignment or project. Misunderstandings surface quicker and get resolved more readily, helping to increase productivity. With an in-person format, it can also be easier to feel part of a network or community simply by physically being in class with like-minded peers pursuing the same goals as you. Remote learning may require more effort on your part to consistently check in online and ensure you’re keeping updated with posts or messages, calls and virtual meetings.
+There is, however, something especially appealing about sitting down with a group of classmates face-to-face and talking through a particularly difficult assignment or project. Misunderstandings surface quicker and get resolved more readily, helping to increase productivity. With an in-person format, it can also be easier to feel part of a network or community simply by physically being in class with like-minded peers pursuing the same goals as you. On the other hand, remote learning may require more effort on your part to consistently check in online and ensure you’re keeping updated with posts or messages, calls and virtual meetings.
 
 ## Summary
 One obvious caveat is that we all have different needs and life situations, so this is by no means an exhaustive list of things you'd want to consider. I know when I'm in the middle of trying to make a big decision, I find it useful to soak up as much information, content and perspectives as I can. So hopefully, this might be helpful to some of you going through a similar dilemma.
