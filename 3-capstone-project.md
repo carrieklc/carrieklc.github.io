@@ -15,7 +15,7 @@ When it came time to choose a partner, [Quebec Iron Ore](https://mineraiferquebe
 ![](assets/images/blasting.png)
 *Blasting phase in iron ore mining (Quebec Iron Ore 2019)*
 
-Unfortunately, Identifying the rock type is no trivial task as it typically requires sending samples of rock powder from the drilled hole to a laboratory to perform chemical assays. This process takes time and results are received long after holes have already been loaded with explosives and blasted.
+Unfortunately, identifying the rock type is no trivial task as it typically requires sending samples of rock powder from the drilled hole to a laboratory to perform chemical assays. This process takes time and results are received long after holes have already been loaded with explosives and blasted.
 
 ![](assets/images/drilling_process.png)
 
@@ -59,7 +59,7 @@ With the first approach, we calculated a set of numeric values which summarized 
 
 ![](assets/images/feat_eng.png)
 
-We also wanted to take advantage of domain expertise in house at Quebec Iron Ore to help us identify characteristics that would differentiate rock classes. Based on feedback elicited from an experienced drill operator, we created several features using this approach.
+We also wanted to take advantage of domain expertise in-house at Quebec Iron Ore to help us identify characteristics that would differentiate rock classes. Based on feedback elicited from an experienced drill operator, we created several features using this approach.
 
 ##### 5) Modelling
 At this point, we were ready to try fitting different models. Hyperparameter selection was done using randomized cross-validation. Model performance was assessed on the cross-validated values of accuracy, macro F1 score, and a custom cost function requested by the partner.
@@ -77,7 +77,7 @@ If you want to learn more about our project, the code for the pipeline we develo
 [https://github.com/mfqqio/rock_predictor](https://github.com/mfqqio/rock_predictor)
 
 ## Learnings
-Over the course of this project, I've learned more than I can outline but one key learning I've taken away from the experience is:
+Over the course of this project, I've learned more than I can outline here, but one key learning I've taken away from the experience is:
 
 >Unlike the monster under your bed that may or may not exist, data imbalance is a real thing and needs to be handled properly.
 >
